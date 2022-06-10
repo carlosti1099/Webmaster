@@ -1,0 +1,6 @@
+formulario
+button
+
+utilizamos float para posicionar o form de login para right.
+utilizado display inline block para deixar login em uma linha somente;
+sempre que usar float tem que limpar flutuação no final clear botch;
