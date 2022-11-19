@@ -24,6 +24,9 @@
                 </ul>
             </nav>
             <nav class="mobile right">
+                <div class="botao-menu-mobile">
+                    <i class="fa-solid fa-bars"></i>
+                </div>
                 <ul>
                     <li><a href="">Home</a></li>
                     <li><a href="">Sobre</a></li>
@@ -64,13 +67,13 @@
                     tecnologias muito potentes, porém um pouco complexas demais para os padrões atuais. 
                 </p>
             </div><!--w50-->
-        </div><!--center-->
 
-        <div class="w50 left">
-            <!--Pegar imagen depois-->
-            <img src="../Projeto_01/image/profile.jpg" width="200px"/>
-        </div>
-        <div class="clear"></div>
+            <div class="w50 left">
+                <!--Pegar imagen depois-->
+                <img class="right" src="../Projeto_01/image/profile.jpg" />
+            </div><!--w50-->
+            <div class="clear"></div>
+        </div><!--center-->
     </section><!--descricao-autor-->
 
     <section class="especialidades">
