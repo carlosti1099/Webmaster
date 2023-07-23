@@ -81,62 +81,63 @@
             <h2 class="title">Especialidades</h2>
             <div class="w33 left box-especialidade">
                 <h3><i class="fa-brands fa-css3-alt"></i></h3>
-                <h3>CSS3</h3>
+                <h4>CSS3</h4>
                 <P>is simply dummy text of the printing and typesetting industry. Lorem Ipsum has
                     been the industry's standard dummy text ever since the 1500s, when an unknown
                     printer took a galley</P>
             </div><!--box-especialidade-->
             <div class="w33 left box-especialidade">
                 <h3><i class="fa-brands fa-html5"></i></h3>
-                <h3>html5</h3>
+                <h4>html5</h4>
                 <P>is simply dummy text of the printing and typesetting industry. Lorem Ipsum has
                     been the industry's standard dummy text ever since the 1500s, when an unknown
                     printer took a galley</P>
             </div><!--box-especialidade-->
             <div class="w33 left box-especialidade">
                 <h3><i class="fa-brands fa-js"></i></h3>
-                <h3>Javascript</h3>
+                <h4>Javascript</h4>
                 <P>is simply dummy text of the printing and typesetting industry. Lorem Ipsum has
                     been the industry's standard dummy text ever since the 1500s, when an unknown
                     printer took a galley</P>
             </div><!--box-especialidade-->
+            <div class="clear"></div>
         </div><!--center-->
     </section>
 
     <section class="extras">
         
         <div class="center">
-            <div class="w50 left">
-                <h2 class="title">Depoimentos</h2>
+            <div class="w50 left depoimentos-container">
+                <h2 class="title">Depoimentos dos nossos clientes</h2>
                 <div class="depoimento-single">
                     <p class="depoimento-descricao">
-                    is simply dummy text of the printing and typesetting industry. Lorem Ipsum has
+                    ``is simply dummy text of the printing and typesetting industry. Lorem Ipsum has
                     been the industry's standard dummy text ever since the 1500s, when an unknown
-                    printer took a galley
+                    printer took a galley``
                     </p>
                     <p class="nome-autor">Lorem Ipsum</p>
                 </div><!--depoimento-single-->
 
                 <div class="depoimento-single">
                     <p class="depoimento-descricao">
-                    is simply dummy text of the printing and typesetting industry. Lorem Ipsum has
+                    ´´is simply dummy text of the printing and typesetting industry. Lorem Ipsum has
                     been the industry's standard dummy text ever since the 1500s, when an unknown
-                    printer took a galley
+                    printer took a galley``
                     </p>
                     <p class="nome-autor">Lorem Ipsum</p>
                 </div><!--depoimento-single-->
 
                 <div class="depoimento-single">
                     <p class="depoimento-descricao">
-                    is simply dummy text of the printing and typesetting industry. Lorem Ipsum has
+                    ´´is simply dummy text of the printing and typesetting industry. Lorem Ipsum has
                     been the industry's standard dummy text ever since the 1500s, when an unknown
-                    printer took a galley
+                    printer took a galley``
                     </p>
                     <p class="nome-autor">Lorem Ipsum</p>
                 </div><!--depoimento-single-->
             </div><!--w50-->
 
-            <div class="w50 left">
+            <div class="w50 left servicos-container">
                 <h2 class="title">Serviços</h2>
                 <div class="servicos">
                     <ul>
